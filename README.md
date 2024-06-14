@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **???**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything related to technologies**
 
 - 📫 How to reach me **crowzed22@gmail.com**
 
