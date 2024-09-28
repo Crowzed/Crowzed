@@ -6,13 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/centrico4" target="blank"><img src="https://img.shields.io/twitter/follow/centrico4?logo=twitter&style=for-the-badge" alt="centrico4" /></a> </p>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on a project for my college stuff
 
-- 🌱 I’m currently learning **???**
-
-- 💬 Ask me about **anything related to technologies**
-
-- 📫 How to reach me **crowzed22@gmail.com**
+- 🌱 I’m currently learning **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
